@@ -2,7 +2,7 @@
 
 A Cloudflare Worker that provides reliable cron job functionality for the ticker backend API, handling scheduled dividend data updates and job processing.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/your-username/ticker-backend-cloudflare-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/thilinatpr/ticker-backend-cloudflare-worker)
 
 ## 🌟 Features
 
@@ -47,7 +47,7 @@ Click the deploy button above to automatically:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ticker-backend-cloudflare-worker.git
+git clone https://github.com/thilinatpr/ticker-backend-cloudflare-worker.git
 cd ticker-backend-cloudflare-worker
 
 # Install dependencies
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Main API**: [Ticker Backend](https://github.com/your-username/ticker-backend)
+- **Main API**: [Ticker Backend](https://github.com/thilinatpr/ticker-backend)
 - **Cloudflare Workers Docs**: [workers.cloudflare.com](https://workers.cloudflare.com)
 - **Cron Expression Helper**: [crontab.guru](https://crontab.guru)
 
