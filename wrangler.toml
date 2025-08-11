@@ -8,9 +8,9 @@ compatibility_flags = ["nodejs_compat"]
 TICKER_API_BASE_URL = "https://ticker-backend-fw3jr13tb-thilinas-projects-f6f25033.vercel.app"
 TICKER_API_KEY = "tk_demo_key_12345"
 
-# Cron triggers
-[[triggers.crons]]
-cron = "0 9 * * *"
+# Cron triggers (temporarily disabled - add manually in dashboard)
+# [[triggers.crons]]
+# cron = "0 9 * * *"
 
 # Production environment (optional override)
 [env.production]
